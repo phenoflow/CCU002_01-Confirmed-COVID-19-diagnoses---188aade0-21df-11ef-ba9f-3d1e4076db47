@@ -1,0 +1,51 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-antigen---primary.py
+inputModule3:
+  class: File
+  path: python/acute-ccu002_01-confirmed-covid-19-diagnoses---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-detected---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-serum---primary.py
+inputModule6:
+  class: File
+  path: python/ribonucleic-ccu002_01-confirmed-covid-19-diagnoses---primary.py
+inputModule7:
+  class: File
+  path: python/positive-ccu002_01-confirmed-covid-19-diagnoses---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-scale---primary.py
+inputModule9:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-reference---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-speciman---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-antibody---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-assay---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-detection---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-severity---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-confirmed-covid-19-diagnoses-coronavirus---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
